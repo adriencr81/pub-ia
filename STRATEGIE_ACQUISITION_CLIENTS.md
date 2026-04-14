@@ -246,3 +246,45 @@ Les 10 niches retenues (skincare, mode, gadgets maison, fitness, pets, compléme
 | Apollo.io free | ✅ Complémentaire | Trouver le décideur dans les marques identifiées |
 
 **Règle :** Ne pas automatiser avant d'avoir validé le MVP manuellement.
+
+---
+
+### Top 3 Niches retenues (vs top 10 initial)
+
+Principe : 1h/jour = ne pas s'éparpiller sur 10 niches.
+
+| # | Niche | Pourquoi |
+|---|-------|----------|
+| 1 | Skincare / Beauté premium | Argument prix UGC valide (240€/vidéo vs 500€ UGC), fort volume tests |
+| 2 | Pets (accessoires premium) | CPM favorable, viralité facile, peu de compliance, marques DTC ouvertes |
+| 3 | Gadgets maison / cuisine | Démo courte = format parfait IA, peu de contraintes légales |
+
+**Compléments alimentaires écarté** : Meta France bloque régulièrement les claims santé → double travail pour zéro résultat.
+**Lifestyle établi (Cabaïa) écarté** : marques avec branding fort = plus protectrices, agences en place, plus dur à signer.
+
+---
+
+### Analyse liste de 14 marques françaises
+
+**Méthode utilisée pour construire cette liste : mauvaise.** Marques trouvées via "qui vend quoi" et non via Meta Ads Library (15+ ads actives). Liste construite à l'envers.
+
+| Marque | Verdict | Raison |
+|--------|---------|--------|
+| Les Petits Bidons | ❌ | Artisanal, budget pub < 1k€/mois probable |
+| French Bandit | ⚠️ | "Durable" = souvent organic-first |
+| Karma & Maquis | ❌ | Bougies artisanales = pas de paid media agressif |
+| PapattesBox | ✅ | Abonnement = LTV élevé = ad spend potentiel |
+| Bliche | ⚠️ | Abonnement = intéressant, à vérifier Meta |
+| Trew | ❌ | Trop petit, artisanal |
+| Cafés Belleville | ❌ | Torréfaction premium = branding/organique, pas paid |
+| Pulp Pantry | ❌ | Marque américaine, pas française |
+| Harry Barker | ❌ | Américaine aussi |
+| Franklin Pet Food | ✅ | Pet food = fort ad spend potentiel |
+| Petsochic | ✅ | Visuel, niche pets validée |
+| Oh My Cream | ⚠️ | Plus revendeur que DTC, cycle de vente long |
+| Squad Fitness | ⚠️ | À vérifier Meta Ads Library |
+| Gadgets Shopify génériques | ❌ | Pas une marque, pas exploitable |
+
+**Résultat : 3 exploitables, 4 à vérifier, 7 à écarter.**
+
+**Action correcte :** Meta Ads Library → mots-clés (`gamelle chien`, `jouet chat interactif`, `soin visage`, `gadget cuisine`) → France + vidéos actives → garder uniquement les marques avec 15+ ads.
