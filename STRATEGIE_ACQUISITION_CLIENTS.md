@@ -206,3 +206,43 @@ Track responses + close
 ---
 
 **Status:** Ready to launch. Zero risk. Maximum learning.
+
+---
+
+## 📝 NOTES DE SESSION — Avril 2026
+
+### LinkedIn Outreach : Media Buyers Freelances
+
+**Canal secondaire validé** (pas de remplacement de l'approche principale) :
+- Media buyers freelances (Malt, Comet, LinkedIn) = multiplicateurs potentiels (3-5 clients chacun)
+- Search terms LinkedIn : `media buyer meta ads`, `media buyer tiktok`, `media buyer e-commerce`
+- Angle différent du canal principal : partenariat créas, pas vente directe
+
+**Ce qu'il ne faut PAS faire :**
+- 150-200 profils non qualifiés → contradictoire avec le principe "30 max, qualité > quantité"
+- DMs avant 8 semaines de contenu LinkedIn établi
+- Perdre le hook "j'ai compté vos 15+ ads actives" (la force du pitch vient de la data)
+
+---
+
+### Niches prioritaires (consensus)
+
+Les 10 niches retenues (skincare, mode, gadgets maison, fitness, pets, compléments, grooming homme, tech, déco, éco) sont valides MAIS :
+- La liste est générique — ne pas perdre de temps à choisir une niche a priori
+- **Action > analyse** : ouvrir Meta Ads Library et trouver des marques concrètes
+- Attention niche compléments alimentaires : contraintes légales Meta France sur les claims santé
+- Pets & gadgets maison = souvent meilleur CPM que skincare malgré ranking plus bas
+
+---
+
+### Scraping / Automatisation : Verdict
+
+| Technique | Verdict | Raison |
+|-----------|---------|--------|
+| Instant Data Scraper (Meta Ads Library) | ⚠️ Utilisable ponctuellement | Scroll manuel requis, fragile, lent |
+| Script scraping StoreLeads | ❌ Mauvaise piste | Pas d'API, viole CGU, ban immédiat |
+| Apify (scrapers Meta Ads Library) | ✅ Option scale | ~5$/run, stable, légal |
+| Meta Ads Library manuelle | ✅ Priorité MVP | 30 min = 10-15 marques qualifiées |
+| Apollo.io free | ✅ Complémentaire | Trouver le décideur dans les marques identifiées |
+
+**Règle :** Ne pas automatiser avant d'avoir validé le MVP manuellement.
