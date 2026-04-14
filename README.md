@@ -1,8 +1,8 @@
-# Studio IA Pub — Business Plan & Execution Kit
+# Timeline AI — Business Plan & Execution Kit
 
 ## 📋 Contenu du dossier
 
-Ce kit contient **tout ce dont tu as besoin** pour lancer et scaler un studio de création de pubs IA pour e-commerçants.
+Ce kit contient **tout ce dont tu as besoin** pour lancer et scaler Timeline AI — studio de création de pubs IA pour e-commerçants.
 
 ### 📄 Documents
 

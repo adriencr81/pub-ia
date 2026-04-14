@@ -1,13 +1,18 @@
-# Plan Exécution 12 Mois — Studio IA Pub
+# Plan Exécution 12 Mois — Timeline AI
 
 ## Phase 1 : Setup & Content (Semaine 1-8)
 
 ### Semaine 1-2 : Infrastructure
 **Objectif:** Être prêt à livrer ton premier sprint de test
 
-- [ ] Profil LinkedIn créé (photo pro, headline, about section)
-  - Headline: "Creative Testing Partner for E-commerce Founders • AI Video • Meta & TikTok"
-  - About (200 mots): Position, niche, différenciation
+**Identité :**
+- Nom : Timeline AI
+- Domaine + email pro : `@timeline-ai.fr`
+- Canal d'acquisition principal : **cold email** (LinkedIn activé quand la boîte est officielle)
+
+- [ ] Email pro opérationnel (`prenom@timeline-ai.fr`)
+- [ ] Landing page simple en ligne (voir structure dans ARGUMENT_ALGORITHME.md)
+- [ ] Calendly configuré (lien de prise de RDV pour les calls)
   
 - [ ] Outils opérationnels validés
   - [ ] HeyGen (account + avatar selection)
@@ -83,24 +88,31 @@
 
 ## Phase 2 : Premiers Clients (Semaine 9-14)
 
-### Semaine 9-10 : Outreach Vague 1
+### Semaine 3+ : Outreach (en parallèle du contenu)
 **Objectif:** Déclencher 5-10 appels de diagnostic
 
-- [ ] Sélectionner top 5 warmest prospects
-- [ ] Envoyer DM personnalisé (voir template dans Demarrage-Marketing-Studio-IA)
-  - Référencer un de leurs posts récents
+**Seuil minimum avant le premier email :**
+- Email pro configuré
+- Landing page en ligne
+- 10 marques qualifiées identifiées via Meta Ads Library
+
+**Workflow outreach :**
+- [ ] Meta Ads Library → 10-15 marques avec 15+ ads actives
+- [ ] Apollo.io free → email du décideur (Head of Growth, CMO, Fondateur)
+- [ ] Email personnalisé (voir template dans STRATEGIE_ACQUISITION_CLIENTS.md)
+  - Référencer leurs ads actives + estimer leur fréquence
+  - Argument : algorithme Advantage+ qui suffoque
   - Proposer 15 min call
-  - Pitch: "Test sprint à 500€"
-- [ ] Suivre: DM 1 jour après si pas de réponse
-- [ ] Calendrier: 5 appels min pour semaine 10-11
+- [ ] Relance J+3 si pas de réponse (une seule relance)
+- [ ] Objectif : 5 appels bookés
 
 ### Semaine 11 : Diagnose Calls
-**Objectif:** Convertir 2-3 appels en contrats 500€
+**Objectif:** Convertir 2-3 appels en contrats 1 200€
 
-**Structure appel (voir script complet dans Demarrage-Marketing-Studio-IA):**
+**Structure appel (voir script complet dans QUICK_START_TEMPLATES.md):**
 1. Warm-up (2 min)
 2. Diagnosis de leur pain point (4 min)
-3. Pitch: Test sprint 500€ (5 min)
+3. Pitch: Test sprint 1 200€ (5 min)
 4. Close (4 min)
 
 **Conversion target:** 40-50% de calls → contrats (2-3 clients sur 5 appels)
@@ -153,21 +165,21 @@
 ## Phase 3 : Montée en Prix & Retainers (Semaine 15-26)
 
 ### Semaine 15-18 : Day-7 Debriefs + Conversion
-**Objectif:** 1-2 conversions 500€ → 2500€ retainer
+**Objectif:** 1-2 conversions 1 200€ → 21 200€ retainer
 
 **Jour 7 après livraison (semaine 15):**
 - [ ] Client A: Debrief call
   - Lire data ensemble (Ad Manager)
   - Identifier winning hook
   - Proposer retainer: "2 sprints/mois, continuous testing"
-  - Target price: 2500€/mois
+  - Target price: 21 200€/mois
 
 **Résultat espéré:** 1-2 clients convertis en retainer
 
 ### Semaine 19-22 : Prix Normal (1200€) + Acquisition Scaling
 **Objectif:** 2 clients 1200€ one-shot + 1 retainer en place
 
-- [ ] Clients 3-4: Pricing à 1200€ (up from 500€)
+- [ ] Clients 3-4: Pricing à 1200€ (up from 1 200€)
 - [ ] Outreach: 10-15 new warm DMs
   - Focus: Founders actifs, scaling
   - Messaging: "Testing sprint à 1200€" (prix normal)
@@ -182,7 +194,7 @@
 - [ ] Clients one-shot: 1-2 en cours
 - [ ] Acquisition: 5-10 leads warm par semaine
 
-**Pricing retainer:** 2500-3500€/mois selon cas (2-4 sprints)
+**Pricing retainer:** 2500-31 200€/mois selon cas (2-4 sprints)
 
 **Résultat fin Q2 (26 semaines):**
 - CA cumulé: ~8-12k€
@@ -205,7 +217,7 @@
 
 **Retention:**
 - [ ] Debrief call après chaque sprint (non-negotiable)
-- [ ] Upsell: 2500€ → 3000€ (comme clients scale)
+- [ ] Upsell: 21 200€ → 3000€ (comme clients scale)
 - [ ] Churn tracking: Target <10% monthly
 
 **Content:**
@@ -273,7 +285,7 @@
 **Milestone:** 2 retainers, 4-6 one-shots total, revenue 7-12k€
 
 **Review:**
-- Conversion rate: 500€ → retainer? (Target 30-40%)
+- Conversion rate: 1 200€ → retainer? (Target 30-40%)
 - Content ROI: Which pillar drives engagement + DMs?
 - Prospect pipeline: Sustainable inflow?
 - Retention: Client satisfaction on debrief calls?
@@ -349,12 +361,12 @@
 ✅ 5-10 prospects recognize your brand
 
 **Phase 2 (Weeks 9-14) = First revenue**
-✅ 2 clients paying 500€ each
+✅ 2 clients paying 1 200€ each
 ✅ 1 person booked a demo call from LinkedIn
 ✅ 1st testimonial collected
 
 **Phase 3 (Weeks 15-26) = Pricing power**
-✅ 2 retainers @ 2500€+/month
+✅ 2 retainers @ 21 200€+/month
 ✅ 2 clients @ 1200€ (full price)
 ✅ Content reaching 5k+ monthly impressions
 

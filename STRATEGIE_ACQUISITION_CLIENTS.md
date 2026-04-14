@@ -1,4 +1,4 @@
-# Stratégie Acquisition Clients - Studio IA Pub
+# Stratégie Acquisition Clients — Timeline AI
 
 ## 🎯 LE CLIENT IDÉAL (Crystal Clear)
 

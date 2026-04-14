@@ -1,4 +1,4 @@
-# L'Argument Central — "L'Oxygène pour l'Algorithme"
+# Timeline AI — L'Argument Central : "L'Oxygène pour l'Algorithme"
 
 > **L'idée en une phrase :**
 > Ton ROAS ne chute pas parce que Meta marche moins bien.
