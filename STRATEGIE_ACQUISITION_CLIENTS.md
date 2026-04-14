@@ -118,16 +118,22 @@
 ```
 Salut [Name],
 
-J'ai vu que [Company] teste énormément de variantes créatives 
-(j'ai compté vos [15+] ads actives).
+J'ai regardé tes ads actives sur Meta.
+Tu tournes avec [X] créatifs depuis [Y] semaines — ta fréquence doit être autour de [5-6] là.
 
-Je produis exactement ça: 5 angles testés en 48h + hypothesis doc + testing protocol.
-Ça élimine la fatigue audience et réduit le CAC.
+Ce n'est pas Meta qui marche moins bien. C'est l'algorithme Advantage+ qui manque de créatifs à tester.
 
-Intéressé pour un sprint test à [500€] (lancé price) + votre testimonial?
+Je peux t'envoyer 5 nouveaux angles testables en 48h.
+
+Intéressé pour un sprint test à [1 200€] ?
 
 [Lien booking]
 ```
+
+**Pourquoi ce pitch fonctionne :**
+- Tu poses un diagnostic (fréquence élevée = créatifs épuisés), pas une offre
+- Tu montres que tu comprends leur problème mieux qu'eux
+- Tu ne vends pas des vidéos — tu vends de l'oxygène pour l'algorithme
 
 ---
 
@@ -288,3 +294,25 @@ Principe : 1h/jour = ne pas s'éparpiller sur 10 niches.
 **Résultat : 3 exploitables, 4 à vérifier, 7 à écarter.**
 
 **Action correcte :** Meta Ads Library → mots-clés (`gamelle chien`, `jouet chat interactif`, `soin visage`, `gadget cuisine`) → France + vidéos actives → garder uniquement les marques avec 15+ ads.
+
+---
+
+### Argument de vente principal — "L'oxygène pour l'algorithme"
+
+**Le meilleur argument de vente du studio :**
+
+> "Ton ROAS chute pas parce que Meta marche moins bien — c'est parce que ton algorithme manque de créatifs à tester. Je règle ça en 48h."
+
+**Pourquoi c'est fort :**
+- C'est un diagnostic, pas une offre. Les gens achètent un diagnostic.
+- La plupart des concurrents vendent des "vidéos créatives". Toi tu parles ROAS et algorithme.
+- Le client comprend son problème autrement — tu crées de la valeur avant même d'être payé.
+
+**Les faits qui soutiennent l'argument :**
+- Meta Advantage+ recommande officiellement 10-50 créatifs pour optimiser
+- Sous 5 créatifs = algorithme sous-optimisé = ROAS qui chute mécaniquement
+- Depuis iOS 14.5 (2021), Meta a perdu 60-70% du ciblage précis → le créatif EST le ciblage
+- TikTok recommande de rafraîchir les créatifs toutes les 7-14 jours
+- La fréquence (nb de fois qu'une même personne voit la même pub) au-dessus de 5-6 = pub invisible
+
+**ROAS** = Revenus générés ÷ Budget pub (ex: 4 000€ / 1 000€ = ROAS 4)

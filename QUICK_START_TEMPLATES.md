@@ -207,17 +207,34 @@ Night and day difference in speed to winner.
 Ever thought about testing angles faster?
 ```
 
-### Template B: Problem Reframe
+### Template B: Problem Reframe (Algorithm Diagnostic)
 ```
-I see you're scaling hard on [platform]. 
-That usually means one problem: Creative fatigue.
-Your best ads from last month aren't pulling anymore.
+Salut [Name],
 
-I help founders like you generate 5 tested angles in 48h 
-instead of waiting 2–3 weeks per video.
+J'ai regardé tes ads actives sur Meta.
+Tu tournes avec [X] créatifs depuis [Y] semaines — ta fréquence doit être autour de 5-6 là.
 
-Might be useful?
+Ce n'est pas Meta qui marche moins bien.
+C'est l'algorithme Advantage+ qui manque de créatifs à tester.
+
+Je peux t'envoyer 5 nouveaux angles testables en 48h.
+
+Intéressé ?
 ```
+
+**Pourquoi ça marche :**
+- Pose un diagnostic précis (fréquence élevée = créatifs épuisés), pas une offre de service
+- Montre que tu comprends leur problème mieux qu'eux
+- Tu ne vends pas des vidéos — tu vends de l'oxygène pour l'algorithme
+
+---
+
+**Contexte technique à connaître pour ce pitch :**
+- Meta Advantage+ recommande 10-50 créatifs pour optimiser correctement
+- Sous 5 créatifs = algorithme sous-optimisé = ROAS qui chute
+- Depuis iOS 14.5 (2021), Meta a perdu 60-70% du ciblage précis → le créatif EST le ciblage
+- TikTok recommande de rafraîchir les créatifs toutes les 7-14 jours
+- ROAS = Revenus générés ÷ Budget pub dépensé (ex: 4 000€ revenus / 1 000€ pub = ROAS 4)
 
 ### Template C: Reference to Their Post
 ```
