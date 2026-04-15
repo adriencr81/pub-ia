@@ -1,10 +1,23 @@
-# Prospects — Entrepreneurs passés sur le podcast LEGEND
+# Prospects — Entrepreneurs passés sur LEGEND (payants)
 
-## Contexte
+## La méthode
 
-Ces boîtes ont **payé pour passer** dans le podcast **LEGEND** (Guillaume Pley), le #1 en France avec ~8M d'écoutes/mois.
-Le format s'appelle **Legend Business** : une interview longue (environ 2h) sponsorisée par l'entreprise pour raconter son histoire. Prix : ~79 000€ HT (soit ~100k€ TTC).
-Si elles mettent ce budget dans un podcast, elles ont un budget comm actif. Ce sont des leads qualifiés pour le studio.
+Le podcast **LEGEND** (Guillaume Pley, #1 en France, ~8M écoutes/mois) vend un format appelé **Legend Business** : une interview longue (~2h) où c'est **l'entreprise qui paie** pour passer, pour se faire connaître.
+
+Prix indicatif : **~79 000€ HT** (~100k€ TTC).
+
+Ces boîtes ont un **budget comm actif et prouvé**. Elles cherchent de la visibilité. C'est exactement le profil de client pour le studio.
+
+### Comment les identifier
+
+1. Aller sur le TikTok de Guillaume Pley (`@guillaumepley`) ou la chaîne YouTube LEGEND
+2. Filtrer les vidéos avec la mention **"Collaboration commerciale"** dans la description
+3. Le nom de la boite apparaît dans le titre ou le hashtag (`#limova`, `#flytex`, `#odoo`…)
+4. Cross-check sur le site de la boite — beaucoup créent une page dédiée à leur passage (ex : `limova.ai/legend`)
+
+### Angle de pitch pour les prospecter
+
+> *"Vous avez investi dans LEGEND pour vous faire connaître — maintenant transformez ça en créas Meta/TikTok qui convertissent. On prend votre interview, on en sort 5 formats vidéo testables en 48h."*
 
 ---
 
@@ -12,39 +25,35 @@ Si elles mettent ce budget dans un podcast, elles ont un budget comm actif. Ce s
 
 | Entreprise | Fondateur / Dirigeant | Secteur | Notes |
 |---|---|---|---|
-| **Flûte** | — | À confirmer | ~100k€ payés pour LEGEND Business (source article lu) |
-| **LegalPlace** | Racem (PDG) | Création d'entreprise / SaaS juridique | "1 entrepreneur sur 10 l'utilise" — collaboration commerciale confirmée |
-| **Neverhack** | Arthur Bataille (fondateur) | Cybersécurité | Sécurise des systèmes gouvernementaux et militaires |
-| **Sofidy** | Guillaume Berthiaux (Président) | SCPI / Investissement immobilier | A fait 2 épisodes Legend |
-| **France SCPI** | Olivier Ame & Paul Bourdois (co-fondateurs) | SCPI / Investissement immobilier | Interview sur les risques et opportunités SCPI |
-| **IROKO** | Gautier Delabrousse (co-fondateur) | SCPI / Investissement immobilier | Invest immo dès 315€, 5 ans pour devenir leader |
+| **Flûte** | — | À confirmer | ~100k€ payés (source : article) |
+| **Limova** | Yoan Drahy (co-fondateur) | IA SaaS / automatisation entreprises | 2 passages : mai 2025 + nov 2025. 0 → 10 000 clients en 1 an, 1,2M€/mois |
+| **Flytex** | Hugo Huille (fondateur, 29 ans) | Équipement sport / supports articulaires | Fév 2026. 25M€ CA, 200k+ athlètes en 3,5 ans |
+| **Odoo** | Fabien Pinckaers (fondateur) | ERP / logiciel de gestion | Mai 2025. Valorisé 7Md€, collaboration commerciale confirmée |
+| **LegalPlace** | Racem (PDG) | Création d'entreprise / SaaS juridique | "1 entrepreneur sur 10 l'utilise" |
+| **Neverhack** | Arthur Bataille (fondateur) | Cybersécurité | Sécurise systèmes gouvernementaux et militaires |
 | **Fundora** | Bradley Lafond (fondateur) | Investissement / Private equity | Accès aux meilleurs fonds à partir de 100€ |
-| **Fruggies** | Florent & Valérie | Alimentation / foodtech | Fruits lyophilisés en poudre pour smoothies |
-| **Substi.ai** | Corentin Fayard | IA / SaaS | IA personnelle pour entreprises |
-| **Odoo** | Fabien Pinckaers (fondateur) | ERP / Logiciel de gestion | Valorisé 7Md€, collaboration commerciale confirmée |
-| **Céline Roland Opticien** | Céline Roland | Optique / luxe | Lunettes haut de gamme, collaborations célébrités |
+| **Fruggies** | Florent & Valérie | Alimentation / foodtech | Fruits lyophilisés en poudre |
+| **Substi.ai** | Corentin Fayard | IA / SaaS | Assistants IA personnalisés pour entreprises |
+| **Sofidy** | Guillaume Berthiaux | SCPI / Immobilier | 2 épisodes Legend, investissement immobilier |
+| **IROKO** | Gautier Delabrousse (co-fondateur) | SCPI / Immobilier | Invest immo dès 315€ |
+| **France SCPI** | Olivier Ame & Paul Bourdois | SCPI / Immobilier | Interview risques et opportunités SCPI |
+| **Galeon Care** | — | Santé / casques ski connectés | Très récent (2026) |
+| **Emma Sleep** | — | Matelas / literie DTC | Collaboration commerciale confirmée |
+| **Bricks.co** | — | Immobilier fractionné | Collaboration commerciale confirmée |
 
 ---
 
-## Pourquoi les prospecter ?
+## Priorisation
 
-1. **Budget comm prouvé** : elles ont mis 79-100k€ dans un podcast pour exister — elles cherchent de la visibilité, pas juste des impressions
-2. **Elles ont besoin de créas pour convertir** : une interview podcast ramène du trafic, mais sans contenu vidéo pour retargeter → opportunité directe
-3. **Elles connaissent le ROI contenu** : elles ne font pas de la comm par hasard, elles comprennent l'investissement marketing
-4. **Angle de pitch** : *"Vous avez investi dans LEGEND pour vous faire connaître — maintenant transformez ça en créas Meta/TikTok qui convertissent"*
-
----
-
-## Priorités de prospection
-
-| Priorité | Entreprise | Raison |
+| Priorité | Entreprise | Pourquoi |
 |---|---|---|
-| 🔴 **TOP** | Flûte | Budget confirmé ~100k€, cherche activement la visibilité |
-| 🔴 **TOP** | LegalPlace | SaaS B2C, audience large, créas vidéo = levier direct |
-| 🔴 **TOP** | Fundora | Investissement, jeune startup = budget limité mais ROI sensible |
-| 🟡 **Moyen** | Neverhack | Cybersécurité = angle "peur" fort en vidéo |
-| 🟡 **Moyen** | Substi.ai | IA = secteur chaud, cherche forcément des clients |
-| 🟡 **Moyen** | Fruggies | Foodtech = contenu visuel naturel (avant/après, démo produit) |
-| 🟡 **Moyen** | Sofidy / IROKO / France SCPI | Immobilier = budget comm élevé, mais cycle de vente long |
-| 🟢 **Opportuniste** | Odoo | Gros groupe belge, cycle long mais budget illimité |
-| 🟢 **Opportuniste** | Céline Roland | Niche luxe, peut fonctionner si bon angle créatif |
+| 🔴 | **Flûte** | Budget ~100k€ prouvé, cherche activement la visibilité |
+| 🔴 | **Limova** | 2 passages = gros budget comm, SaaS en hypergrowth |
+| 🔴 | **Flytex** | DTC sport, déjà 400+ créas testées/mois sur Meta — client idéal |
+| 🟡 | **LegalPlace** | SaaS B2C, grosse audience, vidéo = levier direct |
+| 🟡 | **Fundora** | Jeune startup, cherche à convertir son audience |
+| 🟡 | **Neverhack** | Angle "peur" = fort en vidéo |
+| 🟡 | **Emma Sleep** | DTC matelas = gros budget pub, concurrentiel |
+| 🟡 | **Fruggies** | Foodtech = contenu visuel naturel |
+| 🟢 | **Odoo** | Gros groupe, cycle long |
+| 🟢 | **Sofidy / IROKO / France SCPI / Bricks.co** | Immo = budget comm élevé mais cycle de vente long |
