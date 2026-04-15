@@ -22,6 +22,7 @@ Liste des marques identifiées via Meta Ad Library (plusieurs pubs actives + plu
 | 10 | **JNPR** | Spiritueux sans alcool | 70% des ventes en e-commerce, fondée 2020, Normandie |
 | 11 | **Pimpant** | Hygiène rechargeable | 80% online, 130k clients, 900 revendeurs, usine Normandie |
 | 12 | **Le Fourgon** | Épicerie consignée | 25M€ CA, +60% en 2024, 8.2M€ levés, 65k clients |
+| 13 | **REKT** | Mobilier gaming & ergonomique | Ticket moyen 169-399€, Made in France, niche très visuelle |
 
 ---
 
@@ -44,3 +45,62 @@ Liste des marques identifiées via Meta Ad Library (plusieurs pubs actives + plu
 - Toutes les marques retenues ont plusieurs pubs actives simultanément + plusieurs versions d'une même pub sur Meta Ad Library
 - Petit CA ≠ petit budget pub
 - Tri à faire pour prioriser les approches
+
+---
+
+## 🔍 Schémas identifiés
+
+### 1. Santé / bien-être domine
+Jolt, Ortho Vital, Fruggies, Elmut, JNPR → plus de la moitié de la liste.
+Ces produits ont besoin de démontrer visuellement leur bénéfice → beaucoup de créas à tester.
+
+### 2. Éco-responsable / réinvention du quotidien
+Unbottled, Pimpant, Le Fourgon, JNPR → ils "réinventent" une catégorie existante.
+Besoin d'éduquer le consommateur → beaucoup d'angles créatifs à tester.
+
+### 3. Modèle abonnement surreprésenté
+Les Petits Culottés, Elmut, Le Fourgon, Pimpant → abonnement = CAC est leur nerf de la guerre.
+Besoin de créas qui convertissent en continu, pas juste ponctuellement.
+
+### 4. Startups françaises en forte croissance
+La plupart ont moins de 5 ans et scalent vite → elles ont le budget mais pas les ressources internes pour produire des créas en volume.
+
+### Client idéal qui se dégage
+**Startup française en croissance, digital-first, avec un produit qui nécessite de l'éducation ou de la démonstration.**
+Top 4 : Fruggies, Elmut, Unbottled, Le Fourgon.
+
+---
+
+## ⚡ Critères de qualification rapide (sur Meta Ad Library)
+
+Au lieu de 5 min par marque, identifier le profil directement dans la pub :
+
+- Marque inconnue qui vend un produit du quotidien réinventé ✅
+- Storytelling "pourquoi on a créé ça" → signe de startup ✅
+- Plusieurs versions de la même pub → ils testent déjà = notre client ✅
+- Countdown / stock artificiel → dropshipping / marque fantôme ❌
+- Catalogue produit générique sans angle fort → éviter ❌
+
+---
+
+## 🔑 Mots-clés Meta Ad Library par secteur
+
+### Sport / Récupération
+- "récupération musculaire", "pistolet de massage", "ice bath", "bain froid", "compléments sportifs"
+
+### Nutrition / Alimentation
+- "smoothie", "compléments alimentaires", "lyophilisé", "snack healthy", "superaliments", "sans sucre ajouté", "protéines végétales"
+
+### Cosmétique / Hygiène
+- "routine visage", "soin naturel", "cosmétique solide", "zéro déchet", "sans sulfate", "vegan"
+
+### Animaux
+- "alimentation fraîche chien", "croquettes naturelles", "sans conservateur chien"
+
+### Éco-responsable / Maison
+- "rechargeable", "sans plastique", "consigne", "entretien naturel", "produit ménager concentré"
+
+### Boissons
+- "sans alcool", "kombucha", "kéfir"
+
+**Méthode :** tape un mot-clé → filtre Vidéos + Actives + France → note les marques avec 10+ pubs → qualifier.
