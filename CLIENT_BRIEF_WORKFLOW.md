@@ -455,34 +455,39 @@ Music: Upbeat, modern
 
 ---
 
-### Step 3.2: Create Videos in HeyGen
+### Step 3.2: Create Videos with Arcads AI + CapCut
 
-**Process for each video:**
+**Approche hybride : IA pour la structure, assets client pour le produit.**
+
+**Process pour chaque variant :**
 
 ```
-1. Open HeyGen.com
-2. Create new video
-3. Paste script/brief
-4. Select avatar + voice
-5. Add visuals/text overlays
-6. Generate video
-7. Download MP4
+ÉTAPE A — Arcads AI (avatar UGC)
+1. Ouvrir arcads.ai
+2. Choisir avatar adapté au secteur :
+   - Nutrition sportive : profil athlète/coach
+   - Cosmétiques : femme active 25-35
+   - Petfood : propriétaire de chien/chat
+   - Compléments : profil santé/lifestyle
+3. Coller le script du variant
+4. Sélectionner voix FR
+5. Générer la vidéo (format 9:16)
+6. Télécharger MP4
+
+ÉTAPE B — CapCut (finitions)
+1. Importer MP4 Arcads
+2. Ajouter clips/photos produit client (coupes sur le produit)
+3. Ajouter texte overlay sur le hook (première seconde)
+4. Ajouter sous-titres auto
+5. Ajouter musique (bibliothèque libre CapCut)
+6. Exporter MP4 final
 ```
 
-**HeyGen Settings (Template):**
-```
-Avatar: Professional, friendly
-Voice: Native language (French for FR market)
-Background: Clean/relevant to product
-Text overlays: Bold, readable
-Music: Trending (upbeat for deodorant, calming for sleep, etc.)
-Duration: Exactly 10-12s per spec
-Format: 9:16 (vertical)
-```
+**Règle d'or :** Chaque variant = même structure, hook différent. Le produit client apparaît obligatoirement (2-3 coupes min).
 
-**Output:** 5 MP4 files (1-2 MB each)
+**Output :** 5 MP4 finaux (format 9:16, 10-15s)
 
-**Time:** 2-3 hours (HeyGen processing time included)
+**Time :** 2-3h pour les 5 variants (Arcads + CapCut)
 
 ---
 

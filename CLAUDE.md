@@ -34,9 +34,31 @@ Service de création de vidéos publicitaires IA pour e-commerce/SaaS français.
 **Hook email acté :** "Tu tournes déjà [X] pubs — le goulot c'est la prod, pas le budget. 72h pour 5 vidéos."
 **Ce qu'on évite :** Tout argumentaire pédagogique Meta dans les emails froids → sonne amateur face à des pros.
 
----
+### ✅ Stack production vidéo : Hybride IA + assets client
 
-## État actuel
+**Approche :** Pas de vidéo IA pure — les marques ont besoin de voir leur produit réel.
+**Modèle :** Structure IA (script, avatar, voix) + assets réels fournis par le client (photos/clips produit).
+
+**Ce que le client fournit (brief 10 min) :**
+- 3-5 photos ou clips du produit
+- 2-3 meilleures pubs actuelles (pour analyser les angles)
+- Audience cible + pain point principal
+
+**Stack technique retenu :**
+| Outil | Rôle |
+|-------|------|
+| **Arcads AI** | Principal — avatars UGC style "vrai client", natif Meta |
+| **CapCut** (gratuit) | Montage, texte overlay, sous-titres, transitions |
+| **ElevenLabs** (gratuit limité) | Voix off alternative à l'avatar |
+| **Pexels** (gratuit) | B-roll générique si client n'a pas de footage |
+| **Claude** | Scripts des 5 variants (angles différents) |
+
+**Pourquoi Arcads :** Format UGC avatar = le format qui convertit le mieux sur Meta actuellement. Même script = 5 personas différents en quelques minutes. Couvre tous les secteurs cibles (nutrition, cosmétiques, petfood, boissons).
+
+**Prochaine étape AVANT d'envoyer les emails :**
+Tester Arcads sur 1-2 vidéos réelles pour valider la qualité du rendu. Si crédible → produit viable → on pitch. Si trop synthétique → ajuster le stack.
+
+---
 
 ### Fait
 - Stratégie complète documentée
@@ -46,10 +68,11 @@ Service de création de vidéos publicitaires IA pour e-commerce/SaaS français.
 - Script scraping Meta Ad Library (`meta_ads_scraper.py`)
 
 ### À faire (dans l'ordre)
-1. **Landing page `timeline-ai.fr`** — crédibilité + destination emails (4-6h setup)
-2. **Trouver les emails** des décideurs — outil retenu : **Dropcontact** (100 crédits gratuits, RGPD, algo FR)
-3. **Écrire 10 emails personnalisés** par secteur
-4. **Envoyer** + tracker les réponses (Google Sheet)
+1. **Tester Arcads AI** — produire 2-3 vidéos test sur secteurs cibles, valider qualité rendu
+2. **Landing page `timeline-ai.fr`** — crédibilité + destination emails (4-6h setup)
+3. **Trouver les emails** des décideurs — outil retenu : **Dropcontact** (100 crédits gratuits, RGPD, algo FR)
+4. **Écrire 10 emails personnalisés** par secteur
+5. **Envoyer** + tracker les réponses (Google Sheet)
 
 ### Métrique de validation MVP
 2-3 réponses sur 10 emails envoyés = MVP validé
@@ -83,3 +106,5 @@ Service de création de vidéos publicitaires IA pour e-commerce/SaaS français.
 | Avril 2026 | Dropcontact retenu pour enrichissement emails (pas encore utilisé) |
 | Avril 2026 | Pivot angle email : éducation Meta → production bottleneck (prospects = déjà 15+ pubs actives) |
 | Avril 2026 | Stack landing page actée : HTML/CSS statique + Vercel |
+| Avril 2026 | Stack production vidéo actée : Arcads AI (UGC avatar) + CapCut + assets client (approche hybride) |
+| Avril 2026 | Décision : tester Arcads avant d'envoyer les emails (valider qualité rendu d'abord) |
