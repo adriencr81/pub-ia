@@ -25,6 +25,7 @@ Service de création de vidéos publicitaires IA pour e-commerce/SaaS français.
 - Domaine : **timeline-ai.fr**
 - Taux réponse cible : 15-25%
 - Séquence : email hyper-personnalisé → Calendly → call découverte → sprint 500€
+- **Stack landing page : HTML/CSS statique + déploiement Vercel**
 
 ### ✅ Angle email : Production bottleneck (pas éducation Meta)
 **Contexte :** Les prospects ciblés tournent déjà 15+ pubs actives (critère de qualification Meta Ad Library).
@@ -81,3 +82,4 @@ Service de création de vidéos publicitaires IA pour e-commerce/SaaS français.
 | Avril 2026 | Positionnement "Meta 5+ créatifs" adopté |
 | Avril 2026 | Dropcontact retenu pour enrichissement emails (pas encore utilisé) |
 | Avril 2026 | Pivot angle email : éducation Meta → production bottleneck (prospects = déjà 15+ pubs actives) |
+| Avril 2026 | Stack landing page actée : HTML/CSS statique + Vercel |
