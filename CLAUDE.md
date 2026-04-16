@@ -26,6 +26,13 @@ Service de création de vidéos publicitaires IA pour e-commerce/SaaS français.
 - Taux réponse cible : 15-25%
 - Séquence : email hyper-personnalisé → Calendly → call découverte → sprint 500€
 
+### ✅ Angle email : Production bottleneck (pas éducation Meta)
+**Contexte :** Les prospects ciblés tournent déjà 15+ pubs actives (critère de qualification Meta Ad Library).
+**Conséquence :** Inutile de les éduquer sur Dynamic Creative ou Advantage+ — ils savent déjà pourquoi ils ont besoin de variants.
+**Leur vraie douleur :** La production est trop lente et trop chère, pas le budget ou la conviction.
+**Hook email acté :** "Tu tournes déjà [X] pubs — le goulot c'est la prod, pas le budget. 48h pour 5 vidéos."
+**Ce qu'on évite :** Tout argumentaire pédagogique Meta dans les emails froids → sonne amateur face à des pros.
+
 ---
 
 ## État actuel
@@ -73,3 +80,4 @@ Service de création de vidéos publicitaires IA pour e-commerce/SaaS français.
 | Avril 2026 | Pivot LinkedIn → Email + landing page (profil LinkedIn = emploi salarié) |
 | Avril 2026 | Positionnement "Meta 5+ créatifs" adopté |
 | Avril 2026 | Dropcontact retenu pour enrichissement emails (pas encore utilisé) |
+| Avril 2026 | Pivot angle email : éducation Meta → production bottleneck (prospects = déjà 15+ pubs actives) |

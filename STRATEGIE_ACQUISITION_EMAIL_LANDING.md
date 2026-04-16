@@ -183,42 +183,38 @@ Par prospect:
 
 **Template Email (Ultra-personnalisé):**
 
+> **Note stratégique :** Les prospects ciblés tournent déjà 15+ pubs actives.
+> Ils connaissent Meta — pas besoin de les éduquer sur Dynamic Creative.
+> Leur douleur = production lente/chère, pas la conviction.
+> Hook : pair-à-pair, direct sur le goulot d'étranglement.
+
 ```
-Subject: [Prospect name], votre CAC vs. notre timing
+Subject: [Marque] — [X] pubs actives, mais combien de nouvelles ce mois ?
 
 ---
 
-Salut [Name],
+Salut [Prénom],
 
-J'ai regardé tes [15+] pubs actives sur Meta Ad Library pour [Marque].
+J'ai regardé vos pubs sur Meta Ad Library — vous tournez déjà [X] créas actives.
 
-Je remarque un pattern:
-- Vous testez énormément de variantes (bon sign)
-- Chaque créa = probablement 2 semaines de production
-- Résultat: vous testez 10 créas/mois au lieu de 50
+Le vrai goulot d'étranglement à votre stade, c'est rarement le budget.
+C'est la production : chaque nouvelle créa = 1-2 semaines, une agence, ou du DIY bancal.
 
-Voici le vrai problème: CAC se tue à la semaine 3 (fatigue créative).
-Solution: tester 50 créas en 2 mois, pas 10.
+Résultat : vous testez 5-10 variantes par mois au lieu de 30-50.
 
-Chez Timeline-AI, on génère 5 variantes créatives en 48h (pas 2 semaines).
-Hypothèse doc incluse. Testing protocol incluse.
-Vous lancez le jour 3. Day-7 debrief pour ajuster.
-
-Pour [Marque] spécifiquement, je vois 3 angles untested:
-1. [Insight spécifique à leur produit]
+Chez Timeline-AI, on livre 5 vidéos prêtes à tester en 48h.
+Pour [Marque] spécifiquement, je vois 3 angles pas encore testés :
+1. [Insight spécifique à leur catégorie/produit]
 2. [Insight 2]
 3. [Insight 3]
 
-Intéressé pour un sprint test à 500€ (prix launch)?
-Vous aurez les 5 vidéos + testimonial si ça marche.
+Sprint test à 500€ (prix launch). Livraison J+2, débrief J+7.
 
-Libre 15 min jeudi ou vendredi pour discuter?
+15 min cette semaine pour en parler ?
 [Calendly link]
 
-À plus,
-[Ton nom]
-Timeline-AI
-timeline-ai.fr
+[Ton prénom]
+Timeline-AI — timeline-ai.fr
 ```
 
 ---
