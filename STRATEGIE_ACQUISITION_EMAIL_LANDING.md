@@ -35,7 +35,7 @@
 
 ### Architecture
 La page doit faire 3 choses:
-1. **Prouver qu'on peut créer des pubs IA en 48h** (showoff du service)
+1. **Prouver qu'on peut créer des pubs IA en 72h** (showoff du service)
 2. **Montrer des exemples** (avant/après, ou cas d'études fictifs mais réalistes)
 3. **CTA clair:** "Réserver un sprint test gratuit"
 
@@ -44,18 +44,18 @@ La page doit faire 3 choses:
 #### 1. Hero (Au-dessus de la ligne)
 ```
 Headline:
-"Testez 5 angles créatifs en 48h — IA + Stratégie"
+"Testez 5 angles créatifs en 72h — IA + Stratégie"
 
 Subheading:
 "Vous testez 10+ créas/mois mais vous perdez 2 semaines en production?
-Nous générons vos variantes créatives en 48h avec une hypothèse testable."
+Nous générons vos variantes créatives en 72h avec une hypothèse testable."
 
 CTA Button: "Réserver une consultation gratuite (30 min)"
 ```
 
 **Pourquoi ça marche:**
 - Spécifique à douleur "slow production"
-- Promesse claire: 48h
+- Promesse claire: 72h
 - Gratuit = no barrier
 
 ---
@@ -78,7 +78,7 @@ Bullet list:
 
 #### 3. La Solution (Timeline-AI)
 ```
-Heading: "Le Sprint Test: 5 angles en 48h"
+Heading: "Le Sprint Test: 5 angles en 72h"
 
 3 colonnes:
 
@@ -100,7 +100,7 @@ Colonne 3: "Jour 3 — Livrables"
 ```
 
 **Pourquoi ça marche:**
-- Très spécifique (48h, 5 vidéos)
+- Très spécifique (72h, 5 vidéos)
 - Montre le processus (credibility)
 - Clear deliverables
 
@@ -202,13 +202,13 @@ C'est la production : chaque nouvelle créa = 1-2 semaines, une agence, ou du DI
 
 Résultat : vous testez 5-10 variantes par mois au lieu de 30-50.
 
-Chez Timeline-AI, on livre 5 vidéos prêtes à tester en 48h.
+Chez Timeline-AI, on livre 5 vidéos prêtes à tester en 72h.
 Pour [Marque] spécifiquement, je vois 3 angles pas encore testés :
 1. [Insight spécifique à leur catégorie/produit]
 2. [Insight 2]
 3. [Insight 3]
 
-Sprint test à 500€ (prix launch). Livraison J+2, débrief J+7.
+Sprint test à 500€ (prix launch). Livraison J+3, débrief J+7.
 
 15 min cette semaine pour en parler ?
 [Calendly link]
@@ -225,7 +225,7 @@ Timeline-AI — timeline-ai.fr
 ```
 "J'ai vu vos [20+] ads actives. Vous testez transformation/proof/lifestyle.
 Angle manquant: community-driven (athlete testimonials side-by-side).
-En 48h, je crée 5 variantes proof: 1 lifestyle, 1 testimony, 1 science, 1 transformation, 1 community.
+En 72h, je crée 5 variantes proof: 1 lifestyle, 1 testimony, 1 science, 1 transformation, 1 community.
 Celui qui gagne = vous savez pour 6 mois."
 ```
 
@@ -233,7 +233,7 @@ Celui qui gagne = vous savez pour 6 mois."
 ```
 "Vos ads tournent depuis [X semaines] = elles fatigent.
 Angle manquant: before-after pour [specific benefit: hydration, clarity, skin texture].
-5 variantes en 48h: close-up routine, testimonial close-up, rapid transformation, expert talk, real user.
+5 variantes en 72h: close-up routine, testimonial close-up, rapid transformation, expert talk, real user.
 Celui qui gagne = 2x ROAS probable."
 ```
 
@@ -243,7 +243,7 @@ Celui qui gagne = 2x ROAS probable."
 Vos ads: probablement mattress shots + sleep improvement claims.
 Angle manquant: lifestyle transformation (tired person → energized).
 5 variantes: animation before/after sleep, real testimonial in bed, expert comfort demo, lifestyle, side-by-side comfort proof.
-On teste en 48h, tu scales le winner."
+On teste en 72h, tu scales le winner."
 ```
 
 #### Petfood/Bien-être animal (Elmut, Bab'in)
@@ -274,7 +274,7 @@ Vous donnez:
 - Budget cible Meta (50€-500€)
 
 Vous recevez:
-- 5 vidéos IA (48h)
+- 5 vidéos IA (72h)
 - Hypothesis doc (pourquoi chaque angle)
 - Testing protocol (budget, duration, KPI)
 - Day-7 debrief call

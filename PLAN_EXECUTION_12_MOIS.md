@@ -108,7 +108,7 @@
 **Contracting:**
 - [ ] Brief form complété
 - [ ] Assets collectés (logo, screenshots, target audience)
-- [ ] Contrat signé (simple PDF: "5 vidéos en 48h, delivery jour 2, debrief jour 7")
+- [ ] Contrat signé (simple PDF: "5 vidéos en 72h, delivery jour 2, debrief jour 7")
 - [ ] Premier paiement reçu
 
 ### Semaine 12-13 : Livraison Sprint 1-2

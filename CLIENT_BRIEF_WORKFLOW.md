@@ -1,12 +1,12 @@
 # Client Brief Workflow — Step-by-Step Process
 
 **Purpose:** Turn client brief → 5 hook variations → delivery  
-**Timeline:** 48 hours  
+**Timeline:** 72 hours  
 **Output:** 5 videos + hypothesis doc + testing protocol
 
 ---
 
-## 📋 PHASE 0: Client Brief Collection (BEFORE 48h Sprint)
+## 📋 PHASE 0: Client Brief Collection (BEFORE 72h Sprint)
 
 ### Step 0.1: Send Brief Template to Client
 
@@ -404,7 +404,7 @@ RATIONALE:
 **Next Iteration:**
 - If top performer: Scale it
 - Create 5 new variations around winner
-- Test again (48h sprint next week)
+- Test again (72h sprint next week)
 
 ---
 
@@ -733,11 +733,15 @@ TUESDAY 3pm:
 - Videos generated
 - Optional: Edit in CapCut
 
-TUESDAY 5pm:
+WEDNESDAY 10am:
+- Polish deliverables
+- Final review
+
+WEDNESDAY 5pm:
 - Organize deliverables
 - Send to client + schedule debrief
 
-TUESDAY 7pm:
+WEDNESDAY 7pm:
 - Client uploads to Meta Ads Manager
 - Test starts
 

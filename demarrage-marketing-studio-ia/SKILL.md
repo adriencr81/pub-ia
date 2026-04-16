@@ -98,7 +98,7 @@ Here's how it goes:
 [Slide 6] Edit (final): CapCut, subtitles, beat-synced cuts
 [Slide 7] Hypothesis doc: "Why hook #3 (social proof) should win"
 
-48h start-to-finish. Not because I'm fast. 
+72h start-to-finish. Not because I'm fast. 
 Because the *system* is tight.
 
 This is what you get if you work with me: 
@@ -147,7 +147,7 @@ They care: Does this solve my problem? Can I trust this?
 
 I use AI in 70% of my productions. 
 Tested against human talent. 
-AI wins on speed (48h) and variation (5 angles, not 1).
+AI wins on speed (72h) and variation (5 angles, not 1).
 
 Using AI isn't a shortcut. It's a *strategy* for testing faster.
 Own it.
@@ -275,7 +275,7 @@ I've been following your growth on [Meta/TikTok] —
 the creative strategy you're running is sharp.
 
 I'm building something for founders like you: 
-5 ad angle variations in 48h + competitive analysis + testing protocol.
+5 ad angle variations in 72h + competitive analysis + testing protocol.
 
 The insight: Most creators test 1–2 angles. 
 Testing 5 simultaneously divides your creative risk by 5 
@@ -330,7 +330,7 @@ Before the call, research:
     once we have results.
     
     Would it make sense to do a test sprint with me? 
-    I'd deliver 5 variations in 48h, 
+    I'd deliver 5 variations in 72h, 
     you run them for a week, 
     and we hop on a call to review data. 
     Zero risk—if it doesn't help, no hard feelings."
@@ -372,7 +372,7 @@ I see you're scaling hard on [platform].
 That usually means one problem: Creative fatigue.
 Your best ads from last month aren't pulling anymore.
 
-I help founders like you generate 5 tested angles in 48h 
+I help founders like you generate 5 tested angles in 72h 
 instead of waiting 2–3 weeks per video.
 
 Might be useful?

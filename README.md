@@ -108,7 +108,7 @@ Tu dois importer ces 2 skills dans Claude Code :
 
 ```bash
 # Semaine 9-10
-- [ ] 5 DMs envoyés à warm prospects
+- [ ] 5 emails envoyés à warm prospects
 - [ ] Cibler: Founders avec 3k-20k€/mo budget pub
 
 # Semaine 11
@@ -247,7 +247,7 @@ Mes clients-cibles: E-commerce 10-100 personnes, scaling sur Meta.
 
 - [ ] 1 sprint test complet produit (5 vidéos + doc hypothèses)
 - [ ] Template brief form prêt
-- [ ] Timeline de livraison validée (48h)
+- [ ] Timeline de livraison validée (72h)
 - [ ] Pricing décidé (500€ launch price)
 
 ---

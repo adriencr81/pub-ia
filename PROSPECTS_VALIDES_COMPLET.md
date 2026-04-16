@@ -84,12 +84,12 @@
 - **10 prospects** pour DM initial
 - LinkedIn + Apollo.io (gratuit)
 
-### Phase 2: Générer Messages (18-19 avril)
-- 10 DMs hyper-personnalisés
-- Reference leurs ads + pain point
+### Phase 2: Générer Emails (18-19 avril)
+- 10 emails hyper-personnalisés
+- Référence leurs ads + pain point
 
 ### Phase 3: Send & Track (19-21 avril)
-- 10 DMs envoyés
+- 10 emails envoyés
 - **Target:** 20-30% réponse = **2-3 replies**
 - **Target:** 50% conversion = **1 client**
 - **Revenue:** €1,200 = **MVP validé ✅**
@@ -103,7 +103,7 @@
 
 ### Breakdown:
 1. **MVP Validation (Semaine 1):** 10 prospects
-   - Envoyer 10 DMs
+   - Envoyer 10 emails
    - 2-3 réponses = succès
    - 1 client = model validé
 
@@ -122,9 +122,9 @@
 ## ✅ Checklist Prochaines Étapes
 
 - [ ] Sauvegarder sur GitHub (DONE ✅)
-- [ ] Identifier 10 décideurs (LinkedIn + Apollo)
-- [ ] Générer 10 DMs hyper-perso
-- [ ] Envoyer DMs (manuel LinkedIn)
+- [ ] Identifier 10 décideurs (LinkedIn lecture + Dropcontact/Hunter)
+- [ ] Générer 10 emails hyper-perso
+- [ ] Envoyer emails (Gmail)
 - [ ] Tracker réponses (spreadsheet)
 - [ ] Premiere découverte call
 - [ ] Premier client = MVP validé

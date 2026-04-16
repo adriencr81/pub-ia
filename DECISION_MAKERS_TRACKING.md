@@ -1,6 +1,6 @@
 # Decision Makers Tracking — Studio IA Pub MVP
 
-**Objectif:** Identifier les 10 décideurs prioritaires + envoyer les premiers DMs
+**Objectif:** Identifier les 10 décideurs prioritaires + envoyer les premiers emails
 
 **Timeline:** Cette semaine (15-21 avril 2026)
 
@@ -192,8 +192,8 @@ Chercher le profil → confirmer qu'il bosse actuellement pour la marque
 ## 📊 Metrics
 
 - **Décideurs trouvés**: 0/10
-- **DMs générés**: 0/10
-- **DMs envoyés**: 0/10
+- **emails générés**: 0/10
+- **emails envoyés**: 0/10
 - **Réponses**: 0/10
 - **Appels booked**: 0/10
 - **Conversions**: 0/10
@@ -204,8 +204,8 @@ Chercher le profil → confirmer qu'il bosse actuellement pour la marque
 
 - [ ] Chercher 10 décideurs sur LinkedIn (2h)
 - [ ] Vérifier 10 profils Apollo.io (30 min)
-- [ ] Générer 10 DMs hyper-personnalisés (30 min)
-- [ ] Envoyer 10 DMs (30 min)
+- [ ] Générer 10 emails hyper-personnalisés (30 min)
+- [ ] Envoyer 10 emails (30 min)
 - [ ] Tracker réponses semaine 2-3
 - [ ] Fermer 1 client = MVP validé ✅
 

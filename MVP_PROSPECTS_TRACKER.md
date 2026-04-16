@@ -71,24 +71,22 @@
 
 ---
 
-## Phase 4: Message Génération (18-19 avril)
+## Phase 4: Email Génération (18-19 avril)
 
 **Commande Claude:**
 ```
-/demarrage-marketing-studio-ia
-
-Je dois créer 10 DMs personnalisés.
+Je dois créer 10 emails personnalisés.
 Voici les prospects:
 [Insérer tableau avec Name, Title, Company, Ad Insight, Pain Point]
 
-Generate hyper-personalized DM scripts (référence leurs ads + pain point).
+Generate hyper-personalized email scripts (référence leurs ads + pain point).
 ```
 
 ---
 
 ## Phase 5: Send + Track (19-21 avril)
 
-| Contact Name | Company | Title | DM Sent Date | Response Date | Response? | Meeting Booked? |
+| Contact Name | Company | Title | Email Sent Date | Response Date | Response? | Meeting Booked? |
 |---|---|---|---|---|---|---|
 
 ---
@@ -98,7 +96,7 @@ Generate hyper-personalized DM scripts (référence leurs ads + pain point).
 - [ ] 30+ candidates prospects identifiés (brut)
 - [ ] 10 brands qualifiées (15+ ads + Shopify ranking ok)
 - [ ] 10 decision makers trouvés (name + email/profil)
-- [ ] 10 DMs envoyés
+- [ ] 10 emails envoyés
 - **Target:** 2-3 réponses (20-30% response rate)
 - **If 1 conversion:** MVP validated ✅
 
@@ -112,7 +110,7 @@ Generate hyper-personalized DM scripts (référence leurs ads + pain point).
 | 2. Verify ranking | BuiltWith | builtwith.com | €0 |
 | 3. Check engagement | LinkedIn/Apollo | linkedin.com + apollo.io | €0 |
 | 4. Generate messages | Claude | (tu as déjà Claude Pro) | €0 |
-| 5. Send + track | LinkedIn DM | linkedin.com | €0 |
+| 5. Send + track | Gmail | gmail.com | €0 |
 
 **Total Week 1 Cost: €0** ✅
 

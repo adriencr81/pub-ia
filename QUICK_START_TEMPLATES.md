@@ -4,12 +4,12 @@
 
 ### Headline Template
 ```
-Creative Testing Partner for E-commerce Founders • AI Video • Meta & TikTok • 48h Sprints
+Creative Testing Partner for E-commerce Founders • AI Video • Meta & TikTok • 72h Sprints
 ```
 
 ### About Section (200 words)
 ```
-I help e-commerce and SaaS founders test 5 creative angles in 48h — 
+I help e-commerce and SaaS founders test 5 creative angles in 72h — 
 without the 2-week wait or agency price tag.
 
 The Problem: Your best ads stop working every 2 weeks. You need new hooks fast. 
@@ -87,7 +87,7 @@ Before you shoot your next ad:
 ```
 Just shipped 5 variations for [industry] client testing on [platform].
 
-Here's the 48h breakdown:
+Here's the 72h breakdown:
 
 [Slide description] — [what we learned]
 [Slide description] — [what we learned]
@@ -105,7 +105,7 @@ When you're ready to test faster, lmk.
 ```
 Just delivered 5 variations for an e-commerce founder scaling on Meta.
 
-Here's the 48h system:
+Here's the 72h system:
 
 [Slide 1] Client brief: 3 pain points, target audience, budget
 → Found: Audience is solopreneurs feeling stuck
@@ -179,7 +179,7 @@ REALITY: Your audience doesn't care about the tool.
 They care: Does this solve my problem? Can I trust this?
 
 I've tested AI avatars vs human talent. 
-AI wins on speed (48h) and variation (5 angles vs 1).
+AI wins on speed (72h) and variation (5 angles vs 1).
 Tested. Data-backed.
 
 Using AI isn't a shortcut. It's a strategy for testing faster.
@@ -213,7 +213,7 @@ I see you're scaling hard on [platform].
 That usually means one problem: Creative fatigue.
 Your best ads from last month aren't pulling anymore.
 
-I help founders like you generate 5 tested angles in 48h 
+I help founders like you generate 5 tested angles in 72h 
 instead of waiting 2–3 weeks per video.
 
 Might be useful?
@@ -289,7 +289,7 @@ Why'd you go all-in on [platform] right now?"
 
 **[6–12 min] Pitch & Offer**
 ```
-"Here's what I do: I help founders test 5 creative angles in 48h 
+"Here's what I do: I help founders test 5 creative angles in 72h 
 instead of waiting weeks. Each angle has a different hook—
 agitation, aspiration, social proof, urgency, curiosity.
 
@@ -303,7 +303,7 @@ once we have results.
 
 Would it make sense to do a test sprint with me? 
 Zero risk—if it doesn't help, no hard feelings.
-I'd deliver 5 variations in 48h, 
+I'd deliver 5 variations in 72h, 
 you run them for a week, 
 and we hop on a call to review data together."
 

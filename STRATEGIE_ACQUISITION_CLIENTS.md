@@ -100,12 +100,12 @@
 - Apollo.io FREE: Lookup des contacts
 - Note noms + profils
 
-### Jour 3-4: Générer Messages (30 min)
+### Jour 3-4: Générer Emails (30 min)
 - Me donner: Name, Title, Company, Their Ad, Pain Point
-- Je génère 10 DMs hyper-personnalisés directement dans le chat
+- Je génère 10 emails hyper-personnalisés directement dans le chat
 
-### Jour 5-7: Envoyer DMs (45 min)
-- LinkedIn manual
+### Jour 5-7: Envoyer emails (45 min)
+- Gmail manuel
 - Copy/paste les messages
 - 4-5 min par personne
 
@@ -113,7 +113,7 @@
 
 ---
 
-## 📧 TEMPLATE DM (Adapte Avec Info Réelle)
+## 📧 TEMPLATE EMAIL (Adapte Avec Info Réelle)
 
 ```
 Salut [Name],
@@ -121,7 +121,7 @@ Salut [Name],
 J'ai vu que [Company] teste énormément de variantes créatives 
 (j'ai compté vos [15+] ads actives).
 
-Je produis exactement ça: 5 angles testés en 48h + hypothesis doc + testing protocol.
+Je produis exactement ça: 5 angles testés en 72h + hypothesis doc + testing protocol.
 Ça élimine la fatigue audience et réduit le CAC.
 
 Intéressé pour un sprint test à [500€] (lancé price) + votre testimonial?
@@ -133,7 +133,7 @@ Intéressé pour un sprint test à [500€] (lancé price) + votre testimonial?
 
 ## 🎯 MVP SUCCESS METRICS
 
-- Envoie: 10 DMs
+- Envoie: 10 emails
 - Target: 20-30% réponse = 2-3 replies
 - Target: 50% conversion = 1 client
 - Revenue: €1,200
@@ -197,7 +197,7 @@ Track responses + close
 - [ ] Day 2: Verify Shopify ranking (BuiltWith)
 - [ ] Day 2: Check engagement (Minea/BigSpy)
 - [ ] Day 3: Find decision makers (LinkedIn + Apollo Free)
-- [ ] Day 3: Generate 10 DMs (via Claude)
+- [ ] Day 3: Generate 10 emails (via Claude)
 - [ ] Day 4-5: Send DMs manually
 - [ ] Week 2: Track responses
 - [ ] Week 2-3: Close first client

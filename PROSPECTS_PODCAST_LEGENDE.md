@@ -17,7 +17,7 @@ Ces boîtes ont un **budget comm actif et prouvé**. Elles cherchent de la visib
 
 ### Angle de pitch pour les prospecter
 
-> *"Vous avez investi dans LEGEND pour vous faire connaître — maintenant transformez ça en créas Meta/TikTok qui convertissent. On prend votre interview, on en sort 5 formats vidéo testables en 48h."*
+> *"Vous avez investi dans LEGEND pour vous faire connaître — maintenant transformez ça en créas Meta/TikTok qui convertissent. On prend votre interview, on en sort 5 formats vidéo testables en 72h."*
 
 ---
 

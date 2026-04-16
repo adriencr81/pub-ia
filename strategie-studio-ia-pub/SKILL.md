@@ -17,7 +17,7 @@ The core insight: **You're not selling videos. You're selling a testing system**
 ## Core Business Model
 
 ### What You're Selling
-- 5 AI-generated video variations in 48h
+- 5 AI-generated video variations in 72h
 - Competitive analysis (10 active ads in the niche)
 - Hypothesis document (why each hook, which pain it addresses)
 - Testing protocol (budget, duration, KPI to track)
@@ -113,7 +113,7 @@ Each sprint follows this 8–10h structure. **Consistency matters more than perf
 ## Positioning & Messaging
 
 ### The Core Pitch
-> "I help e-commerce founders testing on Meta and TikTok to test 5 creative angles in 48h — for 1/3 the cost of an agency and 5x faster risk-mitigation than testing one angle at a time."
+> "I help e-commerce founders testing on Meta and TikTok to test 5 creative angles in 72h — for 1/3 the cost of an agency and 5x faster risk-mitigation than testing one angle at a time."
 
 ### What NOT to Say
 ❌ "I make AI videos" — You're selling testing infrastructure, not a video tool.
@@ -125,7 +125,7 @@ Each sprint follows this 8–10h structure. **Consistency matters more than perf
 ### Right Framing
 ✅ Position as **strategic partner**, not vendor.
 ✅ Always connect to data: "We reduce which angles you burn budget on."
-✅ Emphasize speed: "48h vs 2 weeks from freelancers means iterate faster."
+✅ Emphasize speed: "72h vs 2 weeks from freelancers means iterate faster."
 
 ---
 
@@ -163,7 +163,7 @@ Week 1–3: Presence
 Week 4: Contact
 ├─ DM after becoming a familiar face
 ├─ "I'm testing a service for founders scaling on Meta—
-│   interested in 48h test sprint at launch price (500€) 
+│   interested in 72h test sprint at launch price (500€) 
 │   + your testimonial?"
 └─ Keep it short and benefits-focused
 ```
@@ -174,7 +174,7 @@ Hey [Name],
 
 I've been following your growth on Meta and love the creative 
 direction. I'm building a test system for founders like you—
-5 ad variations in 48h with analysis, not just videos.
+5 ad variations in 72h with analysis, not just videos.
 
 I'm looking for 2 beta clients at 500€ in exchange for a 
 testimonial. Would this be useful for what you're running?

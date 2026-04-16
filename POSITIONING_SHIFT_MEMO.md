@@ -10,7 +10,7 @@
 
 ### ❌ OLD (Weak)
 ```
-"I create 5 video variations in 48h using AI"
+"I create 5 video variations in 72h using AI"
 → Positions us as: Another video agency
 → Customer fear: "Why should I trust this new service?"
 → Conversion risk: High (no proof, no track record)
@@ -20,7 +20,7 @@
 ```
 "Meta recommends testing 5+ creative variations.
 Your CAC is rising because you test 1-2/month.
-We automate the 5-variation part in 48h.
+We automate the 5-variation part in 72h.
 You test smarter, CAC drops."
 
 → Positions us as: Meta science executors
@@ -102,8 +102,8 @@ You scale spend, CAC climbs.
 The cycle repeats.
 
 We solve the "2 weeks" part.
-You get 5 tested angles in 48h. Different hooks, different angles.
-You launch Day 3.
+You get 5 tested angles in 72h. Different hooks, different angles.
+You launch Day 4.
 Day 7 debrief: which one won.
 Repeat 2-3x/month (like Meta recommends).
 
@@ -157,7 +157,7 @@ With examples:     60-70% chance of 1 client
 | "Is this a scam?" | High | Low (Meta co-signs) |
 | "Will it work?" | Unproven | Meta-validated |
 | "Do I need this?" | Maybe | YES (CAC problem is real) |
-| "Why 48h?" | Arbitrary | Because that's execution time |
+| "Why 72h?" | Arbitrary | Because that's execution time |
 | "What's the ROI?" | Unknown | CAC stabilization (proven) |
 
 ---
@@ -192,7 +192,7 @@ Hero:
 
 Meta recommends 5+ variations. You're testing 1-2.
 
-We automate the gap. 48 hours. 5 angles. Ready to test."
+We automate the gap. 72 hours. 5 angles. Ready to test."
 ```
 
 ### **All Emails Use This Frame**
@@ -221,7 +221,7 @@ Show: "CAC dropped because we test 5+ angles/month now"
 ## 🎯 One-Liner Summary
 
 **Old:** "We create videos"  
-**New:** "Meta says test 5+ creatives to stabilize CAC. We do that in 48h."
+**New:** "Meta says test 5+ creatives to stabilize CAC. We do that in 72h."
 
 Everything else follows from this.
 

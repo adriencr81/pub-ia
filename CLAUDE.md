@@ -8,7 +8,7 @@ Ce fichier est chargé automatiquement à chaque session Claude Code.
 ## Projet : Studio IA Pub (side project)
 
 Service de création de vidéos publicitaires IA pour e-commerce/SaaS français.
-**Positionnement verrouillé :** "Meta recommande 5+ créatifs/mois — on automatise ça en 48h."
+**Positionnement verrouillé :** "Meta recommande 5+ créatifs/mois — on automatise ça en 72h."
 
 **Phase actuelle :** MVP Validation (semaine 1, avril 2026)
 **Objectif immédiat :** 2 clients à 500€ en 2 semaines
@@ -31,7 +31,7 @@ Service de création de vidéos publicitaires IA pour e-commerce/SaaS français.
 **Contexte :** Les prospects ciblés tournent déjà 15+ pubs actives (critère de qualification Meta Ad Library).
 **Conséquence :** Inutile de les éduquer sur Dynamic Creative ou Advantage+ — ils savent déjà pourquoi ils ont besoin de variants.
 **Leur vraie douleur :** La production est trop lente et trop chère, pas le budget ou la conviction.
-**Hook email acté :** "Tu tournes déjà [X] pubs — le goulot c'est la prod, pas le budget. 48h pour 5 vidéos."
+**Hook email acté :** "Tu tournes déjà [X] pubs — le goulot c'est la prod, pas le budget. 72h pour 5 vidéos."
 **Ce qu'on évite :** Tout argumentaire pédagogique Meta dans les emails froids → sonne amateur face à des pros.
 
 ---
@@ -41,7 +41,7 @@ Service de création de vidéos publicitaires IA pour e-commerce/SaaS français.
 ### Fait
 - Stratégie complète documentée
 - 32 prospects qualifiés identifiés (`MVP_PROSPECTS_TRACKER.md`)
-- Workflow livraison client défini (sprint 48h, 5 vidéos)
+- Workflow livraison client défini (sprint 72h, 5 vidéos)
 - Templates emails par secteur rédigés (`STRATEGIE_ACQUISITION_EMAIL_LANDING.md`)
 - Script scraping Meta Ad Library (`meta_ads_scraper.py`)
 
@@ -69,7 +69,7 @@ Service de création de vidéos publicitaires IA pour e-commerce/SaaS français.
 | `STRATEGIE_ACQUISITION_EMAIL_LANDING.md` | Stratégie email + templates + calendrier |
 | `MVP_PROSPECTS_TRACKER.md` | 32 prospects qualifiés semaine 1 |
 | `PROSPECTS_VALIDES_COMPLET.md` | Liste complète prospects validés |
-| `CLIENT_BRIEF_WORKFLOW.md` | Process livraison sprint 48h |
+| `CLIENT_BRIEF_WORKFLOW.md` | Process livraison sprint 72h |
 | `HOOK_SHEETS_BY_SECTOR.md` | Angles créatifs par vertical |
 | `meta_ads_scraper.py` | Script scraping Meta Ad Library |
 
