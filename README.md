@@ -12,16 +12,18 @@ Ce kit contient **tout ce dont tu as besoin** pour lancer et scaler un studio de
    - Top 15 ultra-prioritaires pour outreach
    - Checklist de qualification
 
-2. **STRATEGIE_ACQUISITION_EMAIL_OPTIMISEE.md** ← **⚡ LIRE ABSOLUMENT (28 avril)**
-   - Stratégie EMAIL ONLY (pas LinkedIn — tu es salarié ailleurs)
-   - Multi-outils gratuits (Hunter.io + RocketReach + Clearbit + Dropcontact)
-   - Plan exécution 4 semaines
-   - Pattern recognition pour 30+ prospects
+2. **STRATEGIE_ACQUISITION_COMPLETE.md** ← **⚡ LIRE ABSOLUMENT (28 avril)**
+   - 6 semaines: Vidéos démo → Landing → Cold emails
+   - Semaine 1: Créer 15 vidéos démo (3 secteurs x 5 angles)
+   - Semaine 1: Landing page live avec démos
+   - Semaine 2-3: Cold emails (50 prospects) → renvoient à landing
+   - Semaine 4-6: Follow-up, calls, closing (1-2 clients)
+   - **0€ coût** (all free tools: HeyGen, Framer, Hunter, RocketReach)
 
-3. **DECISION_MAKERS_TOP15.md** ← **Tracker des décideurs**
-   - 15 décideurs à identifier via outils email
-   - Approche par secteur pour trouver titre/email
-   - Suivi des progrès
+3. **STRATEGIE_ACQUISITION_EMAIL_OPTIMISEE.md** ← Détails outils email
+   - Multi-outils gratuits pour trouver 50 emails
+   - Hunter.io + RocketReach + Clearbit + Dropcontact
+   - Pattern recognition méthode
 
 3. **PLAN_EXECUTION_12_MOIS.md** ← **Business plan complet (12 mois)**
    - Timeline semaine par semaine (52 semaines)
