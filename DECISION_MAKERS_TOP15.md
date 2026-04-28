@@ -40,34 +40,44 @@
 
 ---
 
-## 📋 Processus de Recherche
+## 📋 Processus de Recherche (EMAIL ONLY — NO LINKEDIN)
 
-### Étape 1: LinkedIn Search (gratuit)
-```
-1. Aller sur linkedin.com
-2. Chercher: [Brand Name]
-3. Filtres:
-   - Titre: "Head of Growth" OU "CMO" OU "Performance Marketing Manager" OU "Directeur Acquisition"
-   - Ancienneté: < 3 ans (pression résultats = + ouvert aux services)
-   - Localisation: France
-4. Copier nom + profil LinkedIn
-```
+⚠️ **IMPORTANT:** Voir [STRATEGIE_ACQUISITION_EMAIL_OPTIMISEE.md](STRATEGIE_ACQUISITION_EMAIL_OPTIMISEE.md) pour processus à jour
 
-### Étape 2: Apollo.io FREE
+### Approche Multi-Outils Gratuits
+
+**Tier 1 — Top 10 Prioritaires (Hunter.io)**
 ```
-1. Aller sur apollo.io
-2. Taper nom de la marque
-3. Récupérer: Name, Title, Email, Company
-4. Croiser avec profil LinkedIn trouvé pour vérifier emploi actuel
+1. S'inscrire Hunter.io → 50 free searches/mois
+2. Taper "[Brand Name] France"
+3. Copier email trouvé → Valider avec Clearbit Reveal
 ```
 
-### Étape 3: Vérifier + Copier Info
+**Tier 2 — Next 10 (RocketReach)**
+```
+1. S'inscrire RocketReach → 50 free searches/mois
+2. Taper "[Brand Name]"
+3. Chercher "Head of Growth" ou "CMO"
+4. Copier email → Valider avec Dropcontact
+```
+
+**Tier 3 — Remaining 30+ (Pattern Recognition)**
+```
+Si Hunter/RocketReach ne trouvent rien:
+1. Trouver 2-3 emails publics (site web, articles, LinkedIn visible)
+2. Identifier pattern (firstname.lastname@domaine)
+3. Construire email probable pour décideur
+4. Valider avec Clearbit Reveal
+5. Si pas sûr → utiliser contact@ ou hello@ du domaine
+```
+
+### Info à Collecter
 ```
 - Nom complet
-- Titre exact (copier-coller)
-- Email professionnel
-- LinkedIn profile URL
-- 1 info récente sur leurs ads Meta (si visible)
+- Titre exact (copier depuis Hunter/RocketReach)
+- Email professionnel (VALIDÉ)
+- Secteur/produit
+- 1 insight depuis Meta Ad Library (nb ads, style)
 ```
 
 ---

@@ -12,10 +12,16 @@ Ce kit contient **tout ce dont tu as besoin** pour lancer et scaler un studio de
    - Top 15 ultra-prioritaires pour outreach
    - Checklist de qualification
 
-2. **DECISION_MAKERS_TOP15.md** ← **Utilise pour chercher décideurs**
-   - 15 décideurs à identifier (LinkedIn + Apollo.io)
-   - Process recherche étape par étape
-   - Suivi des progrès (0/15 → complété)
+2. **STRATEGIE_ACQUISITION_EMAIL_OPTIMISEE.md** ← **⚡ LIRE ABSOLUMENT (28 avril)**
+   - Stratégie EMAIL ONLY (pas LinkedIn — tu es salarié ailleurs)
+   - Multi-outils gratuits (Hunter.io + RocketReach + Clearbit + Dropcontact)
+   - Plan exécution 4 semaines
+   - Pattern recognition pour 30+ prospects
+
+3. **DECISION_MAKERS_TOP15.md** ← **Tracker des décideurs**
+   - 15 décideurs à identifier via outils email
+   - Approche par secteur pour trouver titre/email
+   - Suivi des progrès
 
 3. **PLAN_EXECUTION_12_MOIS.md** ← **Business plan complet (12 mois)**
    - Timeline semaine par semaine (52 semaines)
