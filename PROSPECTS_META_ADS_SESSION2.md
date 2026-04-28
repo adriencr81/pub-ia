@@ -1,13 +1,13 @@
 # Prospects Meta Ad Library — Session 2
 
 **Date :** 28 avril 2026  
-**Méthode :** Mot-clé "essai 30 jours" sur Meta Ad Library  
+**Mots-clés utilisés :** "essai 30 jours" + "lien en bio"  
 **Critère d'entrée :** 10+ pubs actives (vérifié par l'opérateur)  
-**Critère d'exclusion :** Marque non-française, B2B pur, produit trop statique pour 5 variants vidéo
+**Critère d'exclusion :** Marque non-française, B2B pur, produit trop statique pour 5 variants vidéo, dropshipping déguisé
 
 ---
 
-## ✅ Retenus (11 marques)
+## ✅ Retenus (12 marques)
 
 | # | Marque | Secteur | Points clés | Priorité |
 |---|--------|---------|-------------|----------|
@@ -21,7 +21,8 @@
 | 8 | **DustGo** | Shampooineuses / nettoyage maison | 2 761 avis Trustpilot, fondé 2023, fait déjà des pubs IA → pitch facilité | A |
 | 9 | **Timeless Jump** | Cordes à sauter premium / fitness | 50 000 athlètes, 32 pays, fondateur sport de combat, app + communauté | A |
 | 10 | **Inspiretape** | Mouth tape / respiration nasale | Biohacking tendance, D2C direct, produit difficile à expliquer → besoin de tester 5 angles | A |
-| 11 | **Somnilys** | Oreiller ergonomique / sommeil | 127 avis 4.3/5, programme affiliation actif | B |
+| 11 | **Horus X** | Lunettes anti-lumière bleue / gaming | 4,4M€ CA, 19 employés, 200k unités vendues, expansion US, nouveau produit prescription 2025 | A |
+| 12 | **Somnilys** | Oreiller ergonomique / sommeil | 127 avis 4.3/5, programme affiliation actif | B |
 
 ---
 
@@ -32,6 +33,9 @@
 | **Qonto** | B2B (néobanque), équipe marketing interne massive, trop grosse pour MVP |
 | **Kooroo** | Produit trop statique (tapis de bain diatomite), vente-privée = stock à écouler |
 | **Nacre** | Introuvable en ligne + faibles impressions Meta = trop embryonnaire |
+| **Coin Féminin Paris** | Dropshipping déguisé (logistique Chine), 2.9/5 Trustpilot, 44% avis négatifs, France Verif 25% |
+| **Copensunny** | Scam Detector 14/100, dropshipping générique, domaine expire 2026 |
+| **Doravora** | Aucune présence web identifiable, potentiel dropshipping cosmétique |
 | **Maison Corval** | ~~Initialement écarté~~ → réintégré (10+ pubs actives prouvées = signal suffisant) |
 
 ---
