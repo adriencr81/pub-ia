@@ -12,13 +12,14 @@ Ce kit contient **tout ce dont tu as besoin** pour lancer et scaler un studio de
    - Top 15 ultra-prioritaires pour outreach
    - Checklist de qualification
 
-2. **STRATEGIE_ACQUISITION_COMPLETE.md** ← **⚡ LIRE ABSOLUMENT (28 avril)**
-   - 6 semaines: Vidéos démo → Landing → Cold emails
-   - Semaine 1: Créer 15 vidéos démo (3 secteurs x 5 angles)
-   - Semaine 1: Landing page live avec démos
-   - Semaine 2-3: Cold emails (50 prospects) → renvoient à landing
+2. **PLAN_LANCEMENT_MVP.md** ← **⚡ START HERE (28 avril)**
+   - 6 semaines: Landing + Démos → Cold emails → Closing
+   - Référence les stratégies existantes (pas de réinvention)
+   - Semaine 1: Landing page + 3 démos videos (utilise HOOK_SHEETS_BY_SECTOR)
+   - Semaine 2: Find 50 emails (Hunter + RocketReach gratuit)
+   - Semaine 2-3: Cold emails → "See démos on landing"
    - Semaine 4-6: Follow-up, calls, closing (1-2 clients)
-   - **0€ coût** (all free tools: HeyGen, Framer, Hunter, RocketReach)
+   - **0€ coût** (HeyGen free + Framer free + email tools free)
 
 3. **STRATEGIE_ACQUISITION_EMAIL_OPTIMISEE.md** ← Détails outils email
    - Multi-outils gratuits pour trouver 50 emails
