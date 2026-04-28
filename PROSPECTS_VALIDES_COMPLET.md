@@ -1,8 +1,11 @@
 # Prospects Validés — Liste Complète MVP
 
-**Status:** 32 prospects qualifiés et validés  
-**Date:** 15 avril 2026  
-**Prochaine étape:** Identifier décideurs + générer DMs personnalisés
+**Status:** 50+ prospects qualifiés et validés  
+**Date:** 28 avril 2026 (mise à jour consolidation)  
+**Sources:** Meta Ads Library (sessions 1-2) + Recherche manuelle  
+**Prochaine étape:** Identifier 15 décideurs + générer DMs personnalisés
+
+📌 **Voir aussi:** [PROSPECTS_COMPLETS_CONSOLIDES.md](PROSPECTS_COMPLETS_CONSOLIDES.md) pour vue d'ensemble complète
 
 ---
 
@@ -131,4 +134,47 @@
 
 ---
 
-**Status:** Prêt pour demain! 🚀
+## 🆕 NOUVEAUX PROSPECTS — Sessions 2+ (28 avril 2026)
+
+### Session 2 Meta Ads (12 nouveaux)
+
+| Marque | Secteur | Raison | Notes |
+|--------|---------|--------|-------|
+| **Soya Paris** | Oreiller ergonomique | 100k+ clients, D2C, très visuel | Priorité A |
+| **Maison Corval** | Maroquinerie minimaliste | 40k clients, Shopify, 10+ ads prouvées | Priorité A |
+| **Shavest France** | Rasoirs durables éco | Crowdfunding 180k€, 4.7/5 Trustpilot | Priorité A |
+| **Activ'Pet** | Accessoires animaux | D2C Shopify + Amazon FR, secteur validé | Priorité A |
+| **Zenova** | Pressothérapie | Ticket élevé, paiement 3x, "jambes légères" | Priorité A |
+| **Elios Officiel** | Rasoir électrique 5-en-1 | 3k+ avis 4.7/5, 97% satisfaction | Priorité A |
+| **Chillow** | Oreiller ergonomique | 500+ avis 4.5/5, expansion US | Priorité A |
+| **DustGo** | Shampooineuses/nettoyage | 2.7k avis, **fait déjà des pubs IA** | Priorité A |
+| **Timeless Jump** | Cordes à sauter premium | 50k athlètes, 32 pays, app + communauté | Priorité A |
+| **Inspiretape** | Mouth tape/respiration | Biohacking trend, produit complexe → 5 angles | Priorité A |
+| **Horus X** | Lunettes anti-lumière bleue | 4.4M€ CA, 200k unités, expansion US | Priorité A |
+| **Somnilys** | Oreiller ergonomique | 127 avis 4.3/5, affiliation active | Priorité B |
+
+### Recherche Manuelle (3 nouveaux)
+
+| Marque | Secteur | Raison | Notes |
+|--------|---------|--------|-------|
+| **Halara France** | Activewear fitness | Global D2C + France, high-growth | ✅ Validé |
+| **Linéa Paris** | Knee braces bamboo | D2C France, produit visuel santé | ✅ Validé |
+| **Humble+** | Collagène marin | D2C France depuis 2019, visuel fort | ✅ Validé |
+
+**Total Nouveaux:** +15 prospects (12 Meta Ads S2 + 3 recherche manuelle)  
+**Ancien Total:** 32  
+**Nouveau Total:** 47+ prospects qualifiés
+
+---
+
+## 📌 Rejeté après Validation (3)
+
+| Marque | Raison |
+|--------|--------|
+| **Assuropoil** | B2B assurance, pas e-commerce produit |
+| **My Laser France** | Services + centres physiques, pas D2C |
+| **Luveon** | Dropshipping China déguisé, fiabilité douteuse |
+
+---
+
+**Status:** 🚀 50+ prospects prêts pour outreach immédiate

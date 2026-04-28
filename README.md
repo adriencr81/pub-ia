@@ -6,13 +6,24 @@ Ce kit contient **tout ce dont tu as besoin** pour lancer et scaler un studio de
 
 ### 📄 Documents
 
-1. **PLAN_EXECUTION_12_MOIS.md** ← **Lis ça en premier**
+1. **PROSPECTS_COMPLETS_CONSOLIDES.md** ← **📌 LIRE EN PREMIER (28 avril)**
+   - **50+ prospects qualifiés** consolidés (Meta Ads + recherche manuelle)
+   - Vue d'ensemble complète par secteur
+   - Top 15 ultra-prioritaires pour outreach
+   - Checklist de qualification
+
+2. **DECISION_MAKERS_TOP15.md** ← **Utilise pour chercher décideurs**
+   - 15 décideurs à identifier (LinkedIn + Apollo.io)
+   - Process recherche étape par étape
+   - Suivi des progrès (0/15 → complété)
+
+3. **PLAN_EXECUTION_12_MOIS.md** ← **Business plan complet (12 mois)**
    - Timeline semaine par semaine (52 semaines)
    - Checkpoints trimestriels
    - Projections financières adaptables
    - Red flags et ajustements
 
-2. **QUICK_START_TEMPLATES.md** ← **Utilise ça pour démarrer demain**
+4. **QUICK_START_TEMPLATES.md** ← **Templates opérationnels**
    - LinkedIn setup (headline, about, photo)
    - 3 templates de contenu (breakdown, making-of, hot take)
    - DM scripts prêts à l'emploi
@@ -20,7 +31,7 @@ Ce kit contient **tout ce dont tu as besoin** pour lancer et scaler un studio de
    - CRM spreadsheet
    - Weekly checklist
 
-3. **business_plan_studio_pub_ia.docx** (ton doc original)
+5. **business_plan_studio_pub_ia.docx** (ton doc original)
    - Business model complet
    - Analyse du marché détaillée
    - Risques et mitigations
